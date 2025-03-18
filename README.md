@@ -5,4 +5,4 @@ Keceyen KV-5500
 - Ghi Logs
 - Tự động reconnect khi mất tín hiệu từ máy.
 
-  ![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Image](https://github.com/user-attachments/assets/a1dbf68d-3051-4c81-a5ee-22af327107c2)
