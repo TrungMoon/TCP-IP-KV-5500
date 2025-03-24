@@ -1,4 +1,4 @@
-# COnnect and take data TCP-IP-KV-5500
+# COnnect and take data using TCP/IP-KV-5500
 Keceyen KV-5500
 * Sử dụng thư viện SimpleTCP và .NET4.5 (C# winform)
 - Tạo kết nối với KV-5500 lấy dữ liệu trong máy và in ra màn hình
